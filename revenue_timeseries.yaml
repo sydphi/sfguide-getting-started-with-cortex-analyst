@@ -72,6 +72,7 @@ tables:
       - name: product_line
         expr: product_line
         description: Product line associated with revenue
+         synonyms: ["stuff"]
         data_type: varchar
         sample_values:
           - Electronics
